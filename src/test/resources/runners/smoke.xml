@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Smoke Test Suite">
+	<listeners>
+		<listener
+			class-name="com.aventstack.extentreports.testng.listener.ExtentITestListenerClassAdapter" />
+	</listeners>
+	<test name="Client Test">
+		<parameter name="username" value="supervisor" />
+		<parameter name="password" value="tek_supervisor" />
+		<classes>
+			<class name="tek.sdet.testng.tests.smoke.TestNGParameterExample"></class>
+			<!--  class name="tek.sdet.testng.tests.smoke.DataProviderWithArrayExample"></class>
+			<class name="tek.sdet.testng.tests.smoke.DataProviderWithExcelExample"></class>-->
+		</classes>
+	</test>
+</suite>
