@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-19T19:44:49 PST" name="Default suite" finished-at="2023-01-19T19:44:49 PST" duration-ms="82">
+    <groups>
+    </groups>
+    <test started-at="2023-01-19T19:44:49 PST" name="Default test" finished-at="2023-01-19T19:44:49 PST" duration-ms="82">
+      <class name="testNGConcepts.TC3">
+        <test-method is-config="true" signature="beforeSuit()[pri:0, instance:testNGConcepts.TC3@4681c175]" started-at="2023-01-19T19:44:49 PST" name="beforeSuit" finished-at="2023-01-19T19:44:49 PST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuit -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testNGConcepts.TC3@4681c175]" started-at="2023-01-19T19:44:49 PST" name="beforeClass" finished-at="2023-01-19T19:44:49 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforMethod()[pri:0, instance:testNGConcepts.TC3@4681c175]" started-at="2023-01-19T19:44:49 PST" name="beforMethod" finished-at="2023-01-19T19:44:49 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method signature="test3()[pri:0, instance:testNGConcepts.TC3@4681c175]" started-at="2023-01-19T19:44:49 PST" name="test3" finished-at="2023-01-19T19:44:49 PST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGConcepts.TC3@4681c175]" started-at="2023-01-19T19:44:49 PST" name="afterMethod" finished-at="2023-01-19T19:44:49 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforMethod()[pri:0, instance:testNGConcepts.TC3@4681c175]" started-at="2023-01-19T19:44:49 PST" name="beforMethod" finished-at="2023-01-19T19:44:49 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method signature="test4()[pri:0, instance:testNGConcepts.TC3@4681c175]" started-at="2023-01-19T19:44:49 PST" name="test4" finished-at="2023-01-19T19:44:49 PST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGConcepts.TC3@4681c175]" started-at="2023-01-19T19:44:49 PST" name="afterMethod" finished-at="2023-01-19T19:44:49 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testNGConcepts.TC3@4681c175]" started-at="2023-01-19T19:44:49 PST" name="afterClass" finished-at="2023-01-19T19:44:49 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterSuit()[pri:0, instance:testNGConcepts.TC3@4681c175]" started-at="2023-01-19T19:44:49 PST" name="afterSuit" finished-at="2023-01-19T19:44:49 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuit -->
+      </class> <!-- testNGConcepts.TC3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

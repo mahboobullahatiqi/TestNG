@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="suit">
+	<test name="test">	
+		
+	<classes>
+	   <class name = "TC1">
+	   <methods>
+	<include name = "test1"/>
+	<include name = "test2"/>
+		</methods>	
+		</class>
+		
+		<class name = "TC3">
+	   <methods>
+	<include name = "test3"/>
+	<include name = "test4"/>
+		</methods>	
+		</class>
+		</classes>
+		
+	</test>
+</suite>

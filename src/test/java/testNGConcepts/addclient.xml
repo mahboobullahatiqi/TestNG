@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestNG Concetps">
+	<test name="TestNG Concetps Tests">
+	<parameter name="email" value="supervisor"></parameter>
+	<parameter name="password" value="tek_supervisor"></parameter>
+	<classes>
+	
+	<class name= "tek.sdet.testng.tests.smoke.DataDrivenExample"></class>
+	
+			
+		</classes>
+	</test>
+</suite>
